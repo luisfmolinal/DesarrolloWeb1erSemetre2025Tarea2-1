@@ -1,0 +1,38 @@
+/*Item 4*/
+.navbar-nav .nav-link:hover {
+    text-decoration: underline;
+}
+/*Item 5*/
+h2{
+    font-weight: 200;
+}
+.banner-text h6.white .weblink {
+    color: red;
+}
+/*Item 6*/
+section[data-scroll-index="2"] h3 {
+    color: #8D1EFB !important;
+}
+/*Item 7*/
+.feature .single-feature h5 {
+    color:#5EE25A !important
+}
+.icon-border span::before {
+    color: #f775b4 !important;
+}
+/*Item 8*/
+section.team .sectioner-header {
+    border: 1px solid #8D1EFB !important;
+}
+/*Item 9*/
+section.team .team-detail h4 {
+    color: #2E74A7 !important;
+}
+/*Item 10*/
+section.testimonial .slider-item .title span:first-child {
+    text-decoration: underline !important;
+}
+/*Item 11*/
+.footer-copy a[href="http://w3Template.com"] {
+    color: #844E41 !important;
+}
